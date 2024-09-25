@@ -27,7 +27,7 @@ h1 {
 }
 
 h2 {
-    text-align: left;
+    text-align: center;
     margin-right: rem;
     font-size: 5rem;
     font-weight: bold;
@@ -35,7 +35,7 @@ h2 {
 }
 
 h2 span {
-    color: #fbbf24;
+    color: orange;
 }
 
 .buttons {
@@ -45,8 +45,8 @@ h2 span {
 }
 
 .btn {
-    background-color: #fbbf24;
-    color: black;
+    background-color: grey;
+    color: white;
     padding: 15px 25px;
     text-decoration: none;
     font-size: 1.2em;
@@ -55,5 +55,5 @@ h2 span {
 }
 
 .btn:hover {
-    background-color: #e6a50a;
+    background-color: #333;
 }
